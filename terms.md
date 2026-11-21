@@ -1,6 +1,6 @@
 # OMY Terms of Use
 
-_Last updated: November 20, 2026_
+_Last updated: November 21, 2026_
 
 These terms are an agreement between you and **Muhammet Emin Yavuz**, the operator of OMY ("we"). By creating an account you accept them, our [Privacy Policy](privacy.html) and our [Community Guidelines](guidelines.html). Apple's [Standard EULA](https://www.apple.com/legal/internet-services/itunes/dev/stdeula/) also applies.
 
@@ -11,7 +11,7 @@ You must be **at least 18**, able to enter a contract, and not banned from OMY b
 OMY suggests profiles. A call starts only when **both people accept**. Messaging is open only between people who accepted each other. There are no random or anonymous calls.
 
 ## 3. Your content and behaviour
-You are responsible for what you show and say. You keep ownership of your photos and texts, and give us a limited licence to host and display them to run OMY. You must follow the Community Guidelines. We may remove content, hide profiles, limit features, or suspend or permanently ban accounts that break these terms — without notice for serious violations.
+You are responsible for what you show and say. You keep ownership of your photos and texts, and give us a limited licence to host and display them to run OMY. You must follow the Community Guidelines. We enforce them with a strike system: a confirmed violation leads first to a warning you must acknowledge, then to a 7-day suspension, then to a permanent ban. Nudity, sexual content involving anyone, and users under 18 lead to a permanent ban on the first confirmed report. We may also remove a photo or text, and an account that many people report for the same reason may be suspended automatically until we review it.
 
 ## 4. Purchases
 - **OMY Pro** is an auto-renewing subscription (weekly, 3-month or yearly). Payment is charged to your Apple ID at confirmation. It renews automatically unless turned off at least 24 hours before the end of the period; manage or cancel it in your Apple ID settings. **Deleting your OMY account does not cancel the subscription.**
@@ -20,7 +20,7 @@ You are responsible for what you show and say. You keep ownership of your photos
 - Daily free call time and other limits may change; the current limits are shown in the app.
 
 ## 5. Safety
-Use the report and block tools when something is wrong. We review reports within 24 hours. We may share information with law enforcement where the law requires it.
+Use the report and block tools when something is wrong; you can report a profile, a single message or a call. We review reports within 24 hours and tell both you and the reported person about the outcome in the OMY chat (the reporter is not told which penalty was given). If you disagree with a decision about your account, write to omy.support@gmail.com and a person will look at it again. We may share information with law enforcement where the law requires it.
 
 ## 6. Ending your account
 You can delete your account at any time in Settings. We may end accounts that break these terms. Unused coins are lost when the account is deleted or banned.

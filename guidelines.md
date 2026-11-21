@@ -1,6 +1,6 @@
 # OMY Community Guidelines
 
-_Last updated: November 20, 2026_
+_Last updated: November 21, 2026_
 
 OMY is for adults (18+) who want real, respectful conversations. Calls only start when both people accept. Breaking these rules can lead to removal of content, hidden profiles, or a permanent ban.
 
@@ -42,6 +42,6 @@ Use OMY only for lawful purposes. No illegal goods or services (including drugs 
 
 ## How we keep OMY safe
 
-Photos and live video may be checked automatically and by our team to filter objectionable content. You can report a profile or a call from the profile or during the call; we review reports within 24 hours. Depending on how serious a violation is, we may remove content, warn you, limit features, or suspend or permanently ban your account — without notice for serious violations. People you block can’t see or call you. You can delete your account at any time in Settings.
+Photos and live video may be checked automatically and by our team to filter objectionable content. You can report a profile, a single message or a call; we review every report within 24 hours. A report saves evidence for our safety team (a still image of the reported person’s video, the reported message and recent chat, or the profile as it was), deleted after 90 days. Confirmed violations add a strike: first a warning, then a 7-day suspension, then a permanent ban. Nudity and anyone under 18 are banned on the first confirmed report. If many people report the same problem, the account may be suspended automatically until we review it. We tell you about every decision in the OMY chat; if you think we got it wrong, write to us. People you block can’t see or call you. You can delete your account at any time in Settings.
 
 Questions or concerns? omy.support@gmail.com

@@ -1,6 +1,6 @@
 # OMY Privacy Policy
 
-_Last updated: November 20, 2026_
+_Last updated: November 21, 2026_
 
 This policy explains what OMY ("we") collects, why, who processes it and the choices you have. OMY is operated by **Muhammet Emin Yavuz** (the data controller), Türkiye. Contact: **omy.support@gmail.com**.
 
@@ -15,13 +15,19 @@ This policy explains what OMY ("we") collects, why, who processes it and the cho
 | Call records: who, when, how long (not the content) | Daily free call time, PRO limits, safety reviews |
 | Purchases: App Store transaction ids, coin balance and history, PRO status | Deliver what you bought, handle refunds |
 | Device push token | Send notifications you allowed |
-| Reports and blocks | Keep people safe and enforce our Community Guidelines |
+| Reports, blocks, moderation decisions and the evidence attached to a report (see section 2) | Keep people safe and enforce our Community Guidelines |
 
 **We do not record calls.** Live video and audio pass through our real-time video provider only to connect the two people and are not stored. We do not sell your data or use it for advertising. We do not track you across other apps or websites.
 
 ## 2. Automatic checks
 
 Photos you upload are checked automatically (face detection and nudity / violence detection) before anyone can see them. A photo that fails is deleted and never shown. Reported profiles may be hidden automatically and reviewed by a person.
+
+**When you report someone**, we keep evidence for our safety team: if you report during a call, one still image of the **reported person's** video at that moment (taken on your device; your own camera is not included), an automatic nudity check of that image, and basic call details (who started it, when, how long it had run); if you report in a chat, the reported message and the last 20 messages of that chat; if you report a profile, a copy of its photos and text as they were. Evidence is visible only to our safety team and is deleted after **90 days**, or as soon as the report is dismissed.
+
+**Moderation records.** For each account we keep its strikes, warnings, suspensions, bans and the reasons, and we send the decision to the person (and a short result to the reporter) in the OMY chat.
+
+**Automated decisions.** Some steps happen automatically before a person reviews them: a photo that fails the automatic check is not shown; an account that receives several reports in a short time is hidden, and one that 5 different people report for the same reason within 7 days is suspended for up to 7 days. A member of our team reviews these within 24 hours. You can ask for a human review at any time by writing to omy.support@gmail.com.
 
 ## 3. Who processes your data
 
@@ -37,7 +43,7 @@ These providers act on our instructions and may process data outside your countr
 
 - Your account data is kept while your account exists.
 - **When you delete your account** (Settings → Delete account), we delete your profile, photos, username, coin balance, PRO status, call time, devices, friends, open requests and your sign-in right away. Chats you were in are closed and show "Deleted user".
-- We keep **reports** made by or about you for up to **2 years** to prevent abuse and repeat bans, and **purchase transaction ids** (without your profile) as required for accounting and refunds.
+- We keep **reports** made by or about you and your **moderation records** (strikes, warnings, suspensions, bans) for up to **2 years** to prevent abuse and repeat bans, and **purchase transaction ids** (without your profile) as required for accounting and refunds.
 
 ## 5. Your rights
 

@@ -4,6 +4,8 @@ Need help? E-mail **omy.support@gmail.com** — we usually answer within 2 busin
 
 **Report someone:** on their profile, in the chat or during the call, tap the menu → Report. Blocking hides you from each other right away.
 
+**Warned, suspended or banned?** The reason is in the OMY chat in the app. If you think we got it wrong, e-mail us and a person will review the decision again.
+
 **Delete your account:** Settings → Delete account. Everything is removed immediately (see the [Privacy Policy](privacy.html)).
 
 **Cancel OMY Pro:** iPhone Settings → your name → Subscriptions → OMY. Deleting your OMY account does not cancel it.
