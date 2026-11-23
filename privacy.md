@@ -1,6 +1,6 @@
 # OMY Privacy Policy
 
-_Last updated: November 21, 2026_
+_Last updated: November 23, 2026_
 
 This policy explains what OMY ("we") collects, why, who processes it and the choices you have. OMY is operated by **Muhammet Emin Yavuz** (the data controller), Türkiye. Contact: **omy.support@gmail.com**.
 
@@ -10,6 +10,7 @@ This policy explains what OMY ("we") collects, why, who processes it and the cho
 |---|---|
 | Sign-in identifier from Apple or Google (account id, e-mail if you share it) | Create and secure your account |
 | Profile: username, date of birth (age shown, not the date), gender, interests, bio, photos | Show your profile to other adults and suggest people with shared interests |
+| City, if you choose to add one (never your exact location; we do not use GPS) | Help people looking for someone in your city find you; it is not shown on your profile card |
 | Availability (online / in a call) | Let others see when you can take a call |
 | Call requests, friend requests, message requests, messages, gifts | Run the features you use |
 | Call records: who, when, how long (not the content) | Daily free call time, PRO limits, safety reviews |
@@ -21,6 +22,8 @@ This policy explains what OMY ("we") collects, why, who processes it and the cho
 
 ## 2. Automatic checks
 
+The quick face check during sign-up runs **on your device** only: no image or face data leaves your phone or is stored.
+
 Photos you upload are checked automatically (face detection and nudity / violence detection) before anyone can see them. A photo that fails is deleted and never shown. Reported profiles may be hidden automatically and reviewed by a person.
 
 **When you report someone**, we keep evidence for our safety team: if you report during a call, one still image of the **reported person's** video at that moment (taken on your device; your own camera is not included), an automatic nudity check of that image, and basic call details (who started it, when, how long it had run); if you report in a chat, the reported message and the last 20 messages of that chat; if you report a profile, a copy of its photos and text as they were. Evidence is visible only to our safety team and is deleted after **90 days**, or as soon as the report is dismissed.
@@ -31,13 +34,16 @@ Photos you upload are checked automatically (face detection and nudity / violenc
 
 ## 3. Who processes your data
 
-- **Google Firebase** (authentication, database, server functions) — data stored in the EU (Belgium / Netherlands region).
+- **Google Firebase** (authentication and database) — data stored in the EU (Belgium / Netherlands region).
+- **Railway** (runs the OMY server that handles every request).
 - **Amazon Web Services** (photo storage, delivery and automatic photo checks) — Frankfurt, Germany.
-- **Agora** (real-time video and audio routing; nothing is stored).
+- **LiveKit** (real-time video and audio routing; nothing is stored).
 - **Apple** (Sign in with Apple, payments, push notifications) and **Google** (Google Sign-In).
 - **Resend** (sends report alerts to our support inbox).
 
 These providers act on our instructions and may process data outside your country under their standard contractual safeguards.
+
+City names come from GeoNames (geonames.org), licensed under CC BY 4.0.
 
 ## 4. How long we keep data
 
