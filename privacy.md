@@ -16,6 +16,7 @@ This policy explains what OMY ("we") collects, why, who processes it and the cho
 | Call records: who, when, how long (not the content) | Daily free call time, PRO limits, safety reviews |
 | Purchases: App Store transaction ids, coin balance and history, PRO status | Deliver what you bought, handle refunds |
 | Device push token | Send notifications you allowed |
+| Crash and error reports: what went wrong, device model, iOS and app version, linked only to your anonymous account id (no name, e-mail, messages or photos) | Find and fix crashes |
 | Reports, blocks, moderation decisions and the evidence attached to a report (see section 2) | Keep people safe and enforce our Community Guidelines |
 
 **We do not record calls.** Live video and audio pass through our real-time video provider only to connect the two people and are not stored. We do not sell your data or use it for advertising. We do not track you across other apps or websites.
@@ -40,6 +41,7 @@ Photos you upload are checked automatically (face detection and nudity / violenc
 - **LiveKit** (real-time video and audio routing; nothing is stored).
 - **Apple** (Sign in with Apple, payments, push notifications) and **Google** (Google Sign-In).
 - **Resend** (sends report alerts to our support inbox).
+- **Sentry** (crash and error reports; see the table above for what they contain).
 
 These providers act on our instructions and may process data outside your country under their standard contractual safeguards.
 
