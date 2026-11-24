@@ -1,6 +1,6 @@
 # OMY Privacy Policy
 
-_Last updated: November 23, 2026_
+_Last updated: November 24, 2026_
 
 This policy explains what OMY ("we") collects, why, who processes it and the choices you have. OMY is operated by **Muhammet Emin Yavuz** (the data controller), Türkiye. Contact: **omy.support@gmail.com**.
 
@@ -43,28 +43,39 @@ Photos you upload are checked automatically (face detection and nudity / violenc
 - **Resend** (sends report alerts to our support inbox).
 - **Sentry** (crash and error reports; see the table above for what they contain).
 
-These providers act on our instructions and may process data outside your country under their standard contractual safeguards.
+These providers act on our instructions. Our database, server, photos and crash reports are hosted in the EU. Some providers (for example Apple, Google, LiveKit and Resend) may process data in other countries, including the United States; where data leaves the EU or Türkiye, it is protected by the provider's Standard Contractual Clauses or an equivalent safeguard recognised under GDPR and KVKK. OMY itself is run from Türkiye.
 
 City names come from GeoNames (geonames.org), licensed under CC BY 4.0.
 
-## 4. How long we keep data
+## 4. Why we are allowed to use your data (legal bases)
+
+- **To provide OMY to you (contract):** your account, profile, Discover, calls, requests, messages, purchases and PRO.
+- **Legitimate interests:** keeping people safe (automatic photo checks, reports, moderation and evidence), preventing abuse and fraud, and fixing crashes. We keep these to what is needed and you can object (section 6).
+- **Legal obligations:** accounting records of purchases and answering lawful requests from authorities.
+- **Your consent:** push notifications and the city you choose to add. You can withdraw it at any time in iOS Settings or in the app.
+
+## 5. How long we keep data
 
 - Your account data is kept while your account exists.
 - **When you delete your account** (Settings → Delete account), we delete your profile, photos, username, coin balance, PRO status, call time, devices, friends, open requests and your sign-in right away. Chats you were in are closed and show "Deleted user".
 - We keep **reports** made by or about you and your **moderation records** (strikes, warnings, suspensions, bans) for up to **2 years** to prevent abuse and repeat bans, and **purchase transaction ids** (without your profile) as required for accounting and refunds.
 
-## 5. Your rights
+## 6. Your rights
 
 Under GDPR and Türkiye's KVKK you can ask to access, correct, delete or export your data, object to processing, or complain to your data protection authority. Most of this you can do in the app (edit profile, delete account). For anything else, write to omy.support@gmail.com; we answer within 30 days.
 
-## 6. Age
+**Moderation decisions and appeals.** If we remove your content or restrict, suspend or ban your account, we tell you what we decided and why in the OMY chat. You can appeal within 6 months by writing to omy.support@gmail.com; a person who was not involved in the first decision reviews it. If you are in the EU you may also use a certified out-of-court dispute settlement body or go to court under the Digital Services Act.
+
+**Contact point.** omy.support@gmail.com is our single point of contact for users and authorities (including under the EU Digital Services Act). You can write to us in English or Turkish.
+
+## 7. Age
 
 OMY is only for people **18 and older**. We remove accounts that appear to belong to minors.
 
-## 7. Permissions
+## 8. Permissions
 
-Camera and microphone are used only during calls you start or accept. Notifications are optional. You can change these in iOS Settings at any time.
+The camera is used for the quick face check at sign-up, for taking profile photos and during calls you start or accept; the microphone only during calls. Photos are added only from the ones you pick. Notifications are optional. You can change these in iOS Settings at any time.
 
-## 8. Changes
+## 9. Changes
 
 If this policy changes in a meaningful way we will tell you in the app before it applies.
